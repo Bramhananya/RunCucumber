@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="17.697">
+    <testcase classname="Feature to validate the OrangeHRM" name="Login Facebook acoount with Valid Credencials" time="17.511">
+        <system-out><![CDATA[Given User is on Googole page...............................................passed
+When user enters OrangeHRM Url..............................................passed
+And OrangeHRM Login page should be displayed................................passed
+Then User enters valid uerid................................................passed
+And User enters valid password..............................................passed
+And hits the login button...................................................passed
+Then user account should be open successfully...............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
